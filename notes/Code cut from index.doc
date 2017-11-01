@@ -1,0 +1,48 @@
+   
+      
+      
+      
+        
+      <h1>Coding for Beginners</h1> 
+      <h4>Begin at the Beginning</h4> 
+        <p>Open the Brackets application. Go to the File menu, pick New to make a new, blank document, and save it as index.html. As you save it, create a new folder; call that folder anything that will help you find it later. Maybe call it Week One, because this information is from week one of the NYPL's Project Code class.</p>
+        <p>Once it includes the following text, your index.html file will become the backbone of your page. (Doesn't this code already look like code? Secret code? It speaks in code to the computer, establishing what programming language you're working in&#8212HTML&#8212and what content goes where.) </p>
+        <p>&lt!DOCTYPE html&gt<br>
+        &lthtml&gt<br>
+        &lthead&gt &lt/head&gt<br>
+        &ltbody&gt &lt/body&gt<br>
+        &lt/html&gt</p>
+        <h4> Adding Text </h4>
+        <p> None of these tags, the items in &lt &gt signs, will show on screen. They tell the computer what to do with your eventual content, (like read it in HTML),  and they designate spaces for your content. Words appearing between the &lthead&gt tags appear in the browser tab. Words and images appearing between the body tags, &ltbody&gt and &lt/body&gt, will be the meat of your page. </p>
+        
+        <br> 
+        <h4>... note jump in draft text...</h4>
+        <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut consectetur ornare dui ac eleifend. Mauris pretium in orci gravida cursus. Interdum et malesuada fames ac ante ipsum primis in faucibus. </p>
+
+        <br> 
+        <h4>Making CSS Happen</h4>
+        <p> To connect your CSS style sheet to your index.html, add a link to the &lt head &gt of your document.</p> 
+        <p> &lt link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;style.css&quot;/&gt </p>
+        
+        <br> 
+        <h4> Next! Text! Begin again at page 7.</h4>
+        
+        <br> <br> <br> 
+        
+        <aside>
+        </aside>
+        
+    
+        <aside> 
+        <h4>Notes</h4>
+        <a> </a>
+        <a> </a>  
+        <a> </a>
+        <a> </a>
+        <a>About</a>
+        <a></a>
+        </aside>
+        
+        
+    </body> 
+  </html> 
