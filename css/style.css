@@ -9,7 +9,7 @@ h2 {color: #F34A4A; text-align: left;}
 h4 {color: #F34A4A; text-align: left;}
     /* the red from the screen illo again*/
 
-.toprow {display:flex; justify-content:flex-end;}
+.toprow {display:flex; justify-content: flex-end;}
 .cheese {display:flex; margin-right:40px; margin-left:40px; font-family:'open sans', serif; font-size: 12px}
 
 .description {display:flex; justify-content:center; font-family: 'Merriweather', serif; font-size: 16px; padding: 50px}
