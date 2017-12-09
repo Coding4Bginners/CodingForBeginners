@@ -1,6 +1,6 @@
-body {background-color:#F2F4F0:}
+body {background-color:#F2F4F0;}
     /* a slightly warmer white*/
-body {font-family: 'Open Sans', sans-serif; color:#403634}
+body {font-family: 'Open Sans', sans-serif; color:#403634;}
     /* text color brown from the laptop photo, or an alternate would be the darkest brown from the same image 2D241E*/
 h1 {color: #44A1DB; text-align: left;}
     /* the blue from the circle logo illo*/
@@ -18,5 +18,11 @@ h4 {color: #F34A4A; text-align: left;}
 .content {display:inline-block; vertical-align:top; width:600px;  margin: 10px 10px 10px 30px}
 .sidebar {display:inline-block; vertical-align:top; width:300px; margin: 10px 10px 10px 30px}
 
-a:link, a:visited, a:link:active, a:visited:active { 
-    text-decoration: line-through;}
+#footer {text-align: center; font-size: 10px; line-height: 1.5; } 
+#footerheadline {text-align: center;}
+
+
+a:link, a:visited, a:link:active, a:visited:active {
+    color: #44A1DB;
+    text-decoration: none;
+   }
